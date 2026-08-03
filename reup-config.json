@@ -1,7 +1,7 @@
 {
   "license_url": "https://rpa.momigo.ai/webhook/tool-license",
   "reup_api_url": "https://rpa.momigo.ai/webhook/reup",
-  "latest_version": "0.1.4",
-  "download_url": "https://github.com/nguyendinhlam88/reup/releases/download/v0.1.4/ReupStudio-Setup.exe",
-  "sig": "NL+XQi3k2Uj4hfZICpzB4qUzAbBdEInLNvc26Ro8RrQilqW4sRu+fneiU2Tb1a2EpQ0ceQn1fi5qdmKEfWBHBg=="
+  "latest_version": "0.1.5",
+  "download_url": "https://github.com/nguyendinhlam88/reup/releases/download/v0.1.5/ReupStudio-Setup.exe",
+  "sig": "hO2FPoncblL72MSiBoo804xpEzLEe4g8Cfjtr6MVIeujlJoJu258vnY9FW0qzMgVUoDLoxx0h0FpFuwaU0zTDg=="
 }
