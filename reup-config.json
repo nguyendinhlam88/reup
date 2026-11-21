@@ -1,7 +1,7 @@
 {
   "license_url": "https://rpa.momigo.ai/webhook/tool-license",
   "reup_api_url": "https://rpa.momigo.ai/webhook/reup",
-  "latest_version": "0.1.27",
-  "download_url": "https://github.com/nguyendinhlam88/reup/releases/download/v0.1.27/MediaStudio-Setup.exe",
-  "sig": "eY/fTHTkWk7AN0FYIlzro/c+b71RZiDl757qGS2HmK6t3PBx9repK1y8FURzDxpOl0ZFmfrCpTniwnOeR93iBA=="
+  "latest_version": "0.1.28",
+  "download_url": "https://github.com/nguyendinhlam88/reup/releases/download/v0.1.28/MediaStudio-Setup.exe",
+  "sig": "hNdv/bupCZEe9VgmmrkNtj/62jJHurtxrGYt5IQGUqy4OzNJULqi8tSXTjMDCfbdXxdh+wqXGi9amhYMCK9yDg=="
 }
